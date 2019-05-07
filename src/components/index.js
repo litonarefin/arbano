@@ -5,6 +5,7 @@ import Alert from './Alert.vue'
 import Buttons from './Buttons.vue'
 import Badges from './Badges.vue'
 import AnimateNumber from './AnimateNumber.vue'
+import Tables from './tables/Tables.vue'
 
 //Progress Bars
 import ProgressBars from './ProgressBars.vue'

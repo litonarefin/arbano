@@ -127,7 +127,7 @@ $theme-colors: map-merge((
 // stylelint-enable
 
 //Icons
-$bootstrap-sass-asset-helper: true;
-$icon-font-name: 'glyphicons-halflings-regular';
+$bootstrap-sass-asset-helper: false;
 $icon-font-svg-id: 'glyphicons_halflingsregular';
-$icon-font-path: '../assets/fonts/';
+$icon-font-path:          "/fonts/" !default;
+$icon-font-name:          "glyphicons-halflings-regular" !default;
